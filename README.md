@@ -1,2 +1,2 @@
 # MRLcode
-# code for each component of Parkinson's Research Project
+# code for Parkinson's Research Project
